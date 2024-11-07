@@ -1,0 +1,9 @@
+description: "main configuration file"
+
+
+loglevel: "info"
+LocalRepository:
+  directory: "./data/database/local.db"
+
+HistoricalDataScraper:
+  ticker_file: "./data/tickers.txt"

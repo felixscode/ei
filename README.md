@@ -12,7 +12,7 @@ Greetings, fellow intellectuals and those who still have a few brain cells left!
 
 ### Why?
 
-Because someone has to do it! The world is turning into a place where intelligence is a rare commodity, and I, for one, refuse to let it happen without a fight. This project is my way of pushing back against the tide of stupidity, buy makeing me rich and ruleling the world for a better good
+Because someone has to do it! The world is turning into a place where intelligence is a rare commodity, and I, for one, refuse to let it happen without a fight. This project is my way of pushing back against the tide of stupidity, by making me rich and ruling the world for a better good
 
 ### Features
 
