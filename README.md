@@ -1,6 +1,6 @@
 # ei (Escape Idiocracy)
 
-![Idiocracy](https://duckduckgo.com/?q=Idiocracy+film+2006&ia=images&iax=images&atb=v451-5&iai=http%3A%2F%2Fwww.impawards.com%2F2006%2Fposters%2Fidiocracy_xlg.jpg)
+![Idiocracy](https://m.media-amazon.com/images/M/MV5BMWQ4MzI2ZDQtYjk3MS00ODdjLTkwN2QtOTBjYzIwM2RmNzgyXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg)
 
 ## Welcome to ei (Escape Idiocracy)
 
